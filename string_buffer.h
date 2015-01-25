@@ -1,3 +1,9 @@
+/**
+ * MIT License (MIT)
+ *
+ * Copyright (c) 2015 Zhiyuan Wang
+ */
+
 #ifndef _STRING_BUFFER_H_
 #define _STRING_BUFFER_H_
 

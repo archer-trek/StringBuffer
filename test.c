@@ -1,3 +1,9 @@
+/**
+ * MIT License (MIT)
+ *
+ * Copyright (c) 2015 Zhiyuan Wang
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

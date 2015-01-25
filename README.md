@@ -2,7 +2,7 @@
 C string buffer
 
 # Example
-```
+```c
 StringBuffer *sb = string_buffer_new();
 
 string_buffer_append(sb, "hello");
